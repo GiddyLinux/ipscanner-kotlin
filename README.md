@@ -6,7 +6,7 @@
 
 
 Generate random IPs and scans for port 80, 
-if present it will be saved in an output file
+if present it will be saved in an output file along with its hostname
 
 
 
